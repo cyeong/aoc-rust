@@ -3,5 +3,7 @@
 members = [
  "day1-sonar",
  "day1-sonar2",
+ "day2-dive",
+ "day2-dive2",
 ]
 
